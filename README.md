@@ -2,8 +2,8 @@
 
 [Ultimate Tailwind CSS Tutorial // Build a Discord-inspired Animated Navbar](https://www.youtube.com/watch?v=pfaSUYaSgRo)
 
-![Texto alternativo](/1.png)
-![Texto alternativo](/2.png)
-![Texto alternativo](/3.png)
+![Screenshot](/public/1.png)
+![Screenshot 2](/public/2.png)
+![Screenshot 3](/public/3.png)
 
 ## Vite + React + Yarn + Tailwind + Custom Hook
